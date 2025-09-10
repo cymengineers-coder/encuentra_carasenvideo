@@ -6,6 +6,5 @@ keras==2.15.0
 protobuf<5
 numpy<2.0
 Pillow==10.3.0
-# bloquear la versión GUI de OpenCV que rompe en Streamlit Cloud
-opencv-python!=4.8.1.78
-
+# bloquear completamente la versión GUI de OpenCV que causa libGL error
+opencv-python==0.0.0
