@@ -1,6 +1,5 @@
 deepface==0.0.95
 numpy==2.3.3
 opencv_python==4.8.1.78
-Pillow==10.0.1
 Pillow==11.3.0
 streamlit==1.28.1
