@@ -103,7 +103,6 @@ PySimpleGuy==1.0.0
 PySocks==1.7.1
 python-dateutil==2.9.0.post0
 pytz==2025.2
-pywin32==311
 PyYAML==6.0.2
 pyzmq==27.1.0
 realesrgan==0.3.0
