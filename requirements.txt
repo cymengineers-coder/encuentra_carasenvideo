@@ -1,5 +1,7 @@
 streamlit==1.33.0
 opencv-python-headless==4.8.1.78
+# prevent deepface from reinstalling opencv-python
+opencv-python==4.8.1.78 --only-binary=:all: --no-deps
 deepface==0.0.91
 tensorflow==2.15.1
 protobuf<5
