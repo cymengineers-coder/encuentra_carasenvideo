@@ -1,6 +1,6 @@
 streamlit==1.33.0
 opencv-python-headless==4.8.1.78
-deepface==0.0.91
+deepface==0.0.95
 tensorflow==2.15.1
 keras==2.15.0
 protobuf<5
